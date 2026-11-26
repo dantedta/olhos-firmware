@@ -1,4 +1,4 @@
 # olhos-firmware
 Firmware dos olhos (2x GC9A01 + ESP32-S3). A placa lê o `versao.json` ao acertar a hora (boot e 4h) e,
 se a versão for maior que a dela, baixa o .bin, confere tamanho e SHA-256 e se atualiza sozinha.
-Versão atual: **2026112508** — mumia diva (personalidade) e zumbi com transformacao (surpresa); os dois na demonstracao
+Versão atual: **2026112509** — corrige mumia: os dois olhos com a mesma pupila (pupila so para durante a piscada)
